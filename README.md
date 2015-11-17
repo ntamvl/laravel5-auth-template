@@ -13,6 +13,7 @@ app\Http\routes.php
 ```
 
 ```
+With code:
 Route::controllers([
     'auth' => 'Auth\AuthController',
     'password' => 'Auth\PasswordController',
